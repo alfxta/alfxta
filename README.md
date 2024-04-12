@@ -10,10 +10,9 @@ print(f'#FREE{big_namer}')
 
 Aka alfata!
 
-📁・**Most recent project [Profile](https://github.com/torswats/torswats)**
+📁・Most recent project [Profile](https://github.com/torswats/torswats)
 
-📩・**Contact me?
-  ・ t.me/rikaste
-  ・ @alfata on discord
-  ・ alfata@fraud.cash
-**
+📩・**Contact me?**
+**・ t.me/rikaste**
+**・ @alfata on discord**
+**・ alfata@fraud.cash**
