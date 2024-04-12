@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**torswats/torswats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub](https://komarev.com/ghpvc/?username=torswats&style=flat)
+[![Discord](https://dcbadge.vercel.app/api/shield/1222475156388053012?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1117349092620775515)
+<br>
 
-Here are some ideas to get you started:
+```python
+big_namer = 'torswats'
+print(f'#FREE{big_namer}')
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aka alfata!
+
+📁・**Most recent project [Profile](https://github.com/torswats/torswats)**
+
+📩・**Contact me?
+  ・ t.me/rikaste
+  ・ @alfata on discord
+  ・ alfata@fraud.cash
+**
