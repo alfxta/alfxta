@@ -1,15 +1,15 @@
 
-![GitHub](https://komarev.com/ghpvc/?username=torswats&style=flat)
+![GitHub](https://komarev.com/ghpvc/?username=doxrip&style=flat)
 <br>
 
 ```python
-big_namer = 'torswats'
-print(f'#FREE{big_namer}')
+username = 'doxrip'
+print(f'follow {username} on github')
 ```
 
 Aka alfata!
 
-📁・Most recent project [Profile](https://github.com/torswats/torswats)
+📁・Most recent project [Profile](https://github.com/doxrip/doxrip)
 
 📩・**Contact me?**
 **・ t.me/rikaste**
