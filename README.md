@@ -1,6 +1,6 @@
 
 ![GitHub](https://komarev.com/ghpvc/?username=torswats&style=flat)
-[![Discord](https://dcbadge.vercel.app/api/shield/1222475156388053012?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1117349092620775515)
+[![Discord](https://dcbadge.vercel.app/api/shield/1117349092620775515?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1117349092620775515)
 <br>
 
 ```python
