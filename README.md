@@ -9,7 +9,7 @@ print(f'follow {username} on github')
 
 Aka alfata!
 
-📁・Most recent project [Profile](https://github.com/doxrip/doxrip)
+📁・Most recent project [simple-keyauth-loader](https://github.com/doxrip/simple-keyauth-loader)
 
 📩・**Contact me?**
 **・ t.me/rikaste**
