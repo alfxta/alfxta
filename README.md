@@ -12,6 +12,6 @@ Aka alfata!
 📁・Most recent project [simple-keyauth-loader](https://github.com/doxrip/simple-keyauth-loader)
 
 📩・**Contact me?**
-**・ t.me/[babykidnapper](https://t.me/babykidnapper)**
+**・ t.me/[babykidnap](https://t.me/babykidnap)**
 **・ @alfata on discord**
 **・ alfata@fraud.cash**
