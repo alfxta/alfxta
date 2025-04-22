@@ -10,7 +10,7 @@ print(f'follow {username} on github')
 📁・Most recent project [simple-keyauth-loader](https://github.com/doxrip/simple-keyauth-loader)
 
 📩・**Contact me?**
-**・ t.me/[bypxss](https://t.me/bypxss)**
-**・ @bypxssed on discord (@alfata, @buhf & @offsetdump all got termed)**
-**・ [Other ways to contact me](https://fakecrime.bio/cpp)**
+**・ [Telegram](https://t.me/bypxss)**
+**・ [Discord](https://discord.gg/d10)**
+**・ [Other](https://fakecrime.bio/cpp)**
 
