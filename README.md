@@ -12,6 +12,5 @@ print(f'follow {username} on github')
 📩・**Contact me?**
 **・ t.me/[bypxss](https://t.me/bypxss)**
 **・ @bypxssed on discord (@alfata, @buhf & @offsetdump all got termed)**
-**・ alfata@fraud.cash**
-**・ Other ways to contact me(https://fakecrime.bio/cpp)**
+**・ [Other ways to contact me](https://fakecrime.bio/cpp)**
 
