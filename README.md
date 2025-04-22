@@ -7,7 +7,7 @@ username = 'alfxta'
 print(f'follow {username} on github')
 ```
 
-📁・Most recent project [simple-keyauth-loader](https://github.com/doxrip/simple-keyauth-loader)
+📁・Most recent project [github-viewbot](https://github.com/alfxta/github-viewbot)
 
 📩・**Contact me?**
 **・ [Telegram](https://t.me/bypxss)**
